@@ -1,4 +1,4 @@
-# *Hi, there!* <img src="https://github.com/user-attachments/assets/e0da4f16-fa63-4c8e-bb2b-64c290460372" width="34" style="max-width: 100%" />
+# *Hi, there!* 👋
 
 - 🧑🏻‍💻 Developer & Designer
 - 🎨 Frontend
