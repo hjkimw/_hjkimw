@@ -38,7 +38,7 @@
     "WebGL",
     "Web Animation",
     "Web Performance",
-    "Design Systenm",
+    "Design System",
     "UI/UX",
     "SEO"
   ]
